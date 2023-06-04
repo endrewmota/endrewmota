@@ -1,4 +1,4 @@
-### Olá! eu sou Endrew Mota
+### Hello! I'm Endrew Mota
 
 <div align="center">
   <a href="https://github.com/endrewmota">
